@@ -15,4 +15,4 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
 import seaborn as sns
 
-run the file my_project.ipynb
+3)run the file my_project.ipynb
